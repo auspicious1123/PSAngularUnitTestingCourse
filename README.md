@@ -5,3 +5,5 @@ To get started, clone the repo or download it
 
 npm install
 npm test
+
+Downloaded and edit through Visual Studio Code.
